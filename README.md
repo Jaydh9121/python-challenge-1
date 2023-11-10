@@ -35,6 +35,6 @@ To install and run the food truck menu ordering system on your local machine, fo
 - Python (or any other programming language of choice)
 - Command-line interface (CLI) or Graphical user interface (GUI) based on the application design
 
-## Contributing
+## Contribution
 
 Code used in this project was referenced from prior modules, ChatGPT, Copilot, and various google searches to help understand syntax and correct errors.
